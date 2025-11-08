@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hira
+# 👋 Hi, I’m Hira Idrees
 **Python Developer | Data Analyst | ML Practitioner | Web Scraping & Data Cleaning**
 
 I love transforming messy data into meaningful insights and building intelligent solutions using Python and Machine Learning.  
