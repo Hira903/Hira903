@@ -1,41 +1,52 @@
-# 👋 Hi, I’m Hira Idrees
-**Python Developer | Data Analyst | ML Practitioner | Web Scraping & Data Cleaning**
+### 👋 Hi, I'm Hira Idrees  
+**Python Developer | Data Analyst | ML Enthusiast**
 
-I love transforming messy data into meaningful insights and building intelligent solutions using Python and Machine Learning.  
-With a background in education and leadership, I bring strong **problem-solving and organizational skills** to every project.
+I’m passionate about using data to uncover insights and drive smart decisions.  
+Currently exploring how AI can transform education, automation, and real-world systems.  
 
 ---
 
-## 💻 Skills & Tools
+### 🎓 Currently Learning
+- Full Stack AI (Nexskill)  
+- Python for Machine Learning  
+- Data Visualization & Analytics  
+- Automation using AI Tools  
+
+---
+
+### 🎯 My Goals
+- Build impactful AI & ML projects  
+- Develop a strong professional portfolio  
+- Contribute to open-source and data science communities  
+- Keep merging **education and technology** through innovation  
+
+---
+
+### 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-77AADD?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF9900?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📂 Projects
-- **Data Cleaning & Analysis:** Cleaned and visualized datasets → [Repo Link](https://github.com/Hira903/Fullstack-AI-CourseWork)  
-- **Web Scraping & Automation:** Scraped and automated data extraction → [Repo Link](https://github.com/Hira903/Fullstack-AI-CourseWork)  
-- **Machine Learning Models:** Built predictive models using Scikit-learn → [Repo Link](https://github.com/Hira903/Fullstack-AI-CourseWork)  
-
-*(Replace links with your actual project repositories.)*
+### 📈 GitHub Stats
+![Hira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hira903&show_icons=true&theme=tokyonight&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hira903&theme=tokyonight&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hira903&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 GitHub Stats
-![Hira's GitHub Stats](https://github.com/Hira903/Fullstack-AI-CourseWork)
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiraidrees10/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hira903/Fullstack-AI-CourseWork)
+[![Email](https://img.shields.io/badge/Email-hiraidrees@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraidrees1702@gmail.com)
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/hiraidrees10/)  
-
-
----
-
-> "Data is the new oil — I help extract value from it." ⚡
+💡 *“Data is the new oil — I help extract value from it.”*  
